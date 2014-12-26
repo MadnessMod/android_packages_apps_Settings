@@ -113,10 +113,16 @@
                 android:title="@string/model_number"
                 android:summary="@string/device_info_default"/>
 
-        <!-- Mod version -->
+        <!-- CM Mod version -->
         <Preference android:key="mod_version"
                 style="?android:preferenceInformationStyle"
                 android:title="@string/mod_version"
+                android:summary="@string/mod_version_default" />
+
+        <!-- MADNESS Mod version -->
+        <Preference android:key="madness_mod_version"
+                style="?android:preferenceInformationStyle"
+                android:title="@string/madness_mod_version"
                 android:summary="@string/mod_version_default" />
 
         <!-- Device firmware version -->

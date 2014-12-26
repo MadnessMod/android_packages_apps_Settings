@@ -281,6 +281,7 @@
 
     <!-- About phone screen, CyanogenMod version -->
     <string name="mod_version">CyanogenMod version</string>
+    <string name="madness_mod_version">MadnessMod version</string>
     <string name="mod_version_default">Unknown</string>
 
     <!-- About phone screen, build date -->
